@@ -1,6 +1,13 @@
 # NLP Fake News Classification 📰
 **High-Precision Misinformation Detection using Machine Learning & CNNs**
+## 📊 Model Performance
+| Model | Training Accuracy | Test Accuracy |
+| :--- | :--- | :--- |
+| **CNN (Deep Learning)** | **96%** | **97%** |
+| Random Forest | 96% | 96% |
+| Logistic Regression | 97% | 97% |
 
+> **Note:** The CNN model showed the best generalization capabilities for unseen news data.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue)
 
